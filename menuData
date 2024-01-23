@@ -1,0 +1,498 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "label": "Bulanan",
+            "link": "SYARIF/3_D_PertumbuhanPenjualan",
+            "slug": "pert_twh_bulanan"
+          },
+          {
+            "label": "Kumulatif",
+            "link": "SYARIF/3_D_PertumbuhanKumulatif",
+            "slug": "pert_twh_kumulatif"
+          }
+        ],
+        "label": "Pertumbuhan Penjualan Listrik TWh"
+      },
+      {
+        "label": "Peta Pertumbuhan Listrik",
+        "link": "SYARIF/Maps_Penjualan",
+        "slug": "maps_penjualan"
+      },
+      {
+        "label": "Pertumbuhan Penjualan per Unit",
+        "link": "SYARIF/17_D_RealisasiPertumbuhankWh",
+        "slug": "pert_jual_unit"
+      },
+      {
+        "children": [
+          {
+            "label": "Grafik",
+            "link": "SYARIF/26D_PenjualanSegmen",
+            "slug": "penj_segmen_unit_graph"
+          },
+          {
+            "label": "Tabel Detail",
+            "link": "SYARIF/26D_PenjualanSegmen2",
+            "slug": "penj_segmen_unit"
+          }
+        ],
+        "label": "Penjualan per Segmen per Unit"
+      },
+      {
+        "label": "Penjualan Tenaga Listrik per Tegangan",
+        "link": "SYARIF/A_13_D_Jual_Listrik_Tegangan",
+        "slug": "jual_tegangan"
+      },
+      {
+        "label": "Penjualan Tenaga Listrik per Golongan Tarif",
+        "link": "SYARIF/A_14_D_Jual_Listrik_Gol",
+        "slug": "jual_gol_tarif"
+      },
+      {
+        "label": "Delta Penjualan per Unit",
+        "link": "SYARIF/18D_Deltajualwil",
+        "slug": "delta_jual_unit"
+      },
+      {
+        "label": "Langgam Konsumsi TWh Listrik",
+        "link": "SYARIF/6_D_TWh",
+        "slug": "kons_twh_hold"
+      },
+      {
+        "label": "Langgam Rp/kWh Bulanan",
+        "link": "SYARIF/6_RpkWh",
+        "slug": "rp_kwh_hold"
+      },
+      {
+        "children": [
+          {
+            "label": "Delta Daya Tersambung",
+            "link": "SYARIF/6_D_Delta_Daya",
+            "slug": "delta_daya"
+          },
+          {
+            "label": "Daya Tersambung (MVA)",
+            "link": "SYARIF/6_D_Growth_Daya",
+            "slug": "daya_tersambung"
+          }
+        ],
+        "label": "Langgam Daya MVA Bulanan"
+      },
+      {
+        "children": [
+          {
+            "label": "Bulanan",
+            "link": "SYARIF/A_4_D_Pert_Plg_1",
+            "slug": "pert_plg"
+          },
+          {
+            "label": "Kumulatif",
+            "link": "SYARIF/A_4_D_Pert_Plg_Kum_1",
+            "slug": "pert_plg_kum"
+          }
+        ],
+        "label": "Pertumbuhan Pelanggan"
+      },
+      {
+        "label": "Pertumbuhan Penjualan Holding per Segmen",
+        "link": "EvalPenjualanpln/LA_6",
+        "slug": "penj_hold_segmen"
+      },
+      {
+        "label": "Konsumsi kWh per Pelanggan per Golongan Tarif - Holding",
+        "link": "SYARIF/15_D_KonsumsikwhplgGol",
+        "slug": "kwh_plg_gol"
+      },
+      {
+        "label": "Konsumsi kWh per Pelanggan per Unit",
+        "link": "SYARIF/16_D_Konsumsikwhplgwilayah",
+        "slug": "kWH_plg_wil"
+      },
+      {
+        "label": "Konsumsi Listrik dan Jam Nyala Pelanggan",
+        "link": "SYARIF/25_D_JamNyalaDetails",
+        "slug": "jam_nyala"
+      },
+      {
+        "label": "Konsumsi kWh per Pelanggan per Hari per Segmen - Holding",
+        "link": "SYARIF/EvalPenjualanpln/LA_7",
+        "slug": "kwh_plg_hr_segmen"
+      },
+      {
+        "label": "Konsumsi kWh per Pelanggan per Hari per Unit per Kelompok Tarif",
+        "link": "SYARIF/EvalPenjualanpln/LA_8",
+        "slug": "kwh_plg_hr_unit_segmen"
+      },
+      {
+        "children": [
+          {
+            "label": "Bulanan",
+            "link": "SYARIF/20_D_PertumbuhanRP",
+            "slug": "pend_bulanan"
+          },
+          {
+            "label": "Kumulatif",
+            "link": "SYARIF/20_D_PertumbuhanRPKum",
+            "slug": "pend_kumulatif"
+          }
+        ],
+        "label": "Pertumbuhan Rupiah Pendapatan"
+      },
+      {
+        "label": "Pertumbuhan Pendapatan Golongan Tarif",
+        "link": "SYARIF/2122_D_PertumbuhanRPGOL",
+        "slug": "pert_rp_gol"
+      },
+      {
+        "label": "Realisasi Pertumbuhan Pendapatan per Unit",
+        "link": "SYARIF/23D_RealPertumbuhanRPUnit",
+        "slug": "real_pend_unit"
+      },
+      {
+        "label": "Delta Rupiah Penjualan per Unit",
+        "link": "SYARIF/19_D_DeltaRpWilDetails",
+        "slug": "delta_rupiah_penj"
+      },
+      {
+        "label": "Realisasi Penertiban Pemakaian Tenaga Listrik (P2TL)",
+        "link": "SYARIF/24_D_P2TL",
+        "slug": "p2tl"
+      },
+      {
+        "children": [
+          {
+            "label": "Konsumsi Rata-rata kWh/Plg/Hari",
+            "link": "SYARIF/5_D_kWhPlgHr",
+            "slug": "kwh_plg_hr"
+          },
+          {
+            "label": "Penerimaan Biaya Penyambungan (Sudah Tersambung) per bulan",
+            "link": "Rasyid/Dashboard33",
+            "slug": "bp_bulanan"
+          },
+          {
+            "label": "Pendapatan REC (TAGLIS dan NONTAGLIS)",
+            "link": "Rasyid/35_DashPendapatanREC_1",
+            "slug": "pend_rec"
+          }
+        ],
+        "label": "-- Lampiran --"
+      }
+    ],
+    "label": "Penjualan Tenaga Listrik",
+    "svg": "<svg fill='#ffffff' class='w-5 h-5' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><polygon points='439.6,0 204.9,0 55.4,256 204.9,256 76.9,512 418.2,192 247.5,192'/></g></svg>"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "label": "Penjualan Kumulatif",
+            "link": "SYARIF/111213_D_PertumbuhanJual",
+            "slug": "pertumbuhan_jual_kumulatif"
+          },
+          {
+            "label": "Tren Penjualan",
+            "link": "SYARIF/111213_D_PertumbuhanJualKumulatif",
+            "slug": "pertumbuhan_jual_tren"
+          }
+        ],
+        "label": "Pertumbuhan Penjualan Listrik per Tarif"
+      },
+      {
+        "children": [
+          {
+            "label": "Langgam Konsumsi",
+            "link": "SYARIF/9D_GraphKonsumsiListrikGol",
+            "slug": "kons_kwh_gol_grafik"
+          },
+          {
+            "label": "Tabel Detail",
+            "link": "SYARIF/9_D_KonsumsiListrikGol",
+            "slug": "kons_kwh_gol_detail"
+          }
+        ],
+        "label": "Konsumsi Listrik per Tarif"
+      },
+      {
+        "children": [
+          {
+            "label": "Langgam Pertumbuhan Bulanan",
+            "link": "SYARIF/10D_GraphPertumbuhanBulanan",
+            "slug": "penj_bulanan_gol_grafik"
+          },
+          {
+            "label": "Tabel Detail",
+            "link": "SYARIF/10D_PertumbuhanBulanan",
+            "slug": "penj_bulanan_gol_table"
+          }
+        ],
+        "label": "Persen Pertumbuhan Bulanan Konsumsi Listrik per Tarif"
+      },
+      {
+        "label": "Pertumbuhan Penjualan Listrik per Tarif per Unit",
+        "link": "SYARIF/111213PertumbuhanJualTarifUnit",
+        "slug": "pert_jual_tarif_unit"
+      },
+      {
+        "children": [
+          {
+            "label": "Konsumsi kWh per Pelanggan per Hari per Segmen - Holding",
+            "link": "EvalPenjualanpln/LA_7",
+            "slug": "kwh_plg_hr_segmen"
+          },
+          {
+            "label": "Konsumsi kWh per Pelanggan per Hari per Segmen per Unit",
+            "link": "EvalPenjualanpln/LA_8",
+            "slug": "kwh_plg_hr_unit_segmen"
+          }
+        ],
+        "label": "-- Lampiran --"
+      }
+    ],
+    "label": "Penjualan per Tarif",
+    "svg": "<svg viewBox='0 0 64 64' class='w-5 h-5' xmlns='http://www.w3.org/2000/svg' stroke-width='3' stroke='#ffffff' fill='none'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><path d='M52.35,57.08H11.65v-50A.11.11,0,0,1,11.81,7l4.11,3.85a.11.11,0,0,0,.13,0L19.35,7a.09.09,0,0,1,.12,0l3.72,3.89a.11.11,0,0,0,.13,0L26.61,7a.09.09,0,0,1,.13,0l2.86,3.87a.1.1,0,0,0,.14,0L33,7a.09.09,0,0,1,.13,0l2.69,3.85a.1.1,0,0,0,.14,0L38.86,7A.1.1,0,0,1,39,7l2.85,3.85a.1.1,0,0,0,.14,0L44.7,7a.09.09,0,0,1,.15,0l2.25,3.84a.09.09,0,0,0,.13,0L52.2,7a.1.1,0,0,1,.15.09Z' stroke-linecap='round'></path><line x1='19.42' y1='43.04' x2='46.02' y2='43.04' stroke-linecap='round'></line><line x1='19.42' y1='49.29' x2='46.02' y2='49.29' stroke-linecap='round'></line><path d='M37.87,21.74a5.62,5.62,0,0,0-5.28-3.4c-4.76,0-4.94,3.4-4.94,3.4s-.72,4.2,5.11,4.65c6.06.47,5.11,4.65,5.11,4.65s-.62,3.64-5.11,3.87-5.89-4.49-5.89-4.49'></path><line x1='32.59' y1='15.31' x2='32.59' y2='38.4'></line></g></svg>"
+  },
+  {
+    "children": [
+      {
+        "label": "Pertumbuhan Penjualan Listrik Tarif I3 dan I4 per Unit",
+        "link": "SYARIF/14PertumbuhaanIndustri",
+        "slug": "pert_industri"
+      }
+    ],
+    "label": "Penjualan Tarif Bisnis dan Industri",
+    "svg": "<svg class='h-5 w-5' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 512.004 512.004' xml:space='preserve' fill='#ffffff'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'> <g> <g> <g> <path style='fill:#ffffff;' d='M176.702,71.081c2.177,0,5.443,0,7.621-4.355c7.621-3.266,11.975-8.709,13.064-16.33h1.089 c6.532-2.177,15.241-2.177,27.216-2.177c3.266,1.089,7.621,1.089,10.886,1.089c8.709,1.089,17.418,1.089,26.127,1.089 c9.798-1.089,19.596-2.177,28.305-3.266c7.62-1.089,14.152-2.177,21.773-2.177c11.975,0,25.039,1.089,37.014,2.177l47.9,5.443 c10.886,1.089,21.773-6.532,22.862-18.507c1.089-10.886-6.532-21.773-18.507-22.862l-47.9-4.355 c-13.064-1.089-28.305-3.266-43.546-2.177c-8.709,1.089-17.418,2.177-25.039,4.355c-8.709,1.089-16.33,2.177-23.95,2.177 c-6.532,0-14.152-1.089-21.773-1.089c-4.355-1.089-7.62-1.089-11.975-1.089c-17.418-1.089-31.571,1.089-42.457,4.355 c-13.064,4.355-22.862,11.975-27.216,21.773c-4.355,7.621-4.355,15.241-1.089,22.862 C160.372,65.638,167.993,71.081,176.702,71.081z'></path> <path style='fill:#ffffff;' d='M491.32,199.541H260.527v-81.648c0-10.886-8.709-20.684-20.684-20.684H107.029 c-10.886,0-20.684,8.709-20.684,20.684v148.056L1.43,479.322c-2.177,6.532-2.177,14.152,2.177,19.596 c4.355,5.443,10.886,8.709,17.418,8.709h219.906h86.003H491.32c10.886,0,20.684-9.798,20.684-20.684V220.225 C512.004,209.339,503.295,199.541,491.32,199.541z M127.713,277.923c1.089-2.177,1.089-5.443,1.089-7.621V138.577h91.446v131.726 c0,2.177,0,5.443,1.089,7.621l75.116,187.247H52.596L127.713,277.923z M470.636,466.259H340.243l-79.715-200.31v-25.039h210.108 V466.259z'></path> <path style='fill:#ffffff;' d='M366.126,345.419c10.886,0,20.684-9.798,20.684-20.684v-21.773 c0-10.886-9.798-20.684-20.684-20.684c-10.886,0-20.684,8.709-20.684,20.684v21.773 C345.442,335.621,354.151,345.419,366.126,345.419z'></path> </g> </g> </g> </g></svg>"
+  },
+  {
+    "children": [
+      {
+        "label": "Rekap Kondisi Data Pelanggan NIK dan NPWP",
+        "link": "Rasyid/70_DashRekapNIKNPWP",
+        "slug": "rekap_npwp"
+      },
+      {
+        "label": "Rekap Kondisi Data Pelanggan yang Padan Dukcapil",
+        "link": "Rasyid/71_DashRekapPadanDukcapil",
+        "slug": "rekap_capil"
+      },
+      {
+        "label": "Rekap Kondisi Data Pelanggan No.HP atau Telepon dan Email",
+        "link": "Rasyid/72_DashRekapKondisiDil",
+        "slug": "rekap_dil"
+      },
+      {
+        "label": "Rekap Kondisi Data Pelanggan Gardu dan Koordinat",
+        "link": "Rasyid/73_DashRekapGarduKoordinat",
+        "slug": "rekap_gardu_koord"
+      }
+    ],
+    "label": "Informasi Kelengkapan Data Pelanggan",
+    "svg": "<svg viewBox='0 0 24 24' class='w-5 h-5' fill='none' xmlns='http://www.w3.org/2000/svg'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><path fill-rule='evenodd' clip-rule='evenodd' d='M9.36264 3.53846C7.60261 3.53846 6.17582 4.96525 6.17582 6.72528C6.17582 8.4853 7.60261 9.91209 9.36264 9.91209C11.1227 9.91209 12.5494 8.4853 12.5494 6.72528C12.5494 4.96525 11.1227 3.53846 9.36264 3.53846ZM4.63736 6.72528C4.63736 4.11558 6.75294 2 9.36264 2C11.9723 2 14.0879 4.11558 14.0879 6.72528C14.0879 9.33497 11.9723 11.4506 9.36264 11.4506C6.75294 11.4506 4.63736 9.33497 4.63736 6.72528Z' fill='#ffffff'></path> <path fill-rule='evenodd' clip-rule='evenodd' d='M7.41153 15.4066C5.27249 15.4066 3.53846 17.1406 3.53846 19.2797C3.53846 19.3861 3.55682 19.4596 3.57526 19.5013C3.59011 19.5348 3.60106 19.5412 3.60591 19.544C4.13353 19.8541 5.65133 20.4615 9.36264 20.4615C13.0739 20.4615 14.5913 19.8543 15.1189 19.5443C15.1238 19.5414 15.1352 19.5348 15.15 19.5013C15.1685 19.4596 15.1868 19.3861 15.1868 19.2797C15.1868 17.1406 13.4528 15.4066 11.3137 15.4066H7.41153ZM2 19.2797C2 16.291 4.42282 13.8681 7.41153 13.8681H11.3137C14.3024 13.8681 16.7253 16.291 16.7253 19.2797C16.7253 19.7944 16.5513 20.4869 15.8984 20.8706C15.0381 21.3763 13.2089 22 9.36264 22C5.51639 22 3.68722 21.3763 2.82683 20.8706C2.17398 20.4869 2 19.7944 2 19.2797Z' fill='#ffffff'></path> <path fill-rule='evenodd' clip-rule='evenodd' d='M15.5431 3.88721C15.654 3.47709 16.0763 3.23448 16.4864 3.34532C18.1832 3.80392 19.3626 5.47949 19.3626 7.38461C19.3626 9.39763 17.9829 11.2126 16.0478 11.4451C15.626 11.4957 15.243 11.1949 15.1923 10.7731C15.1416 10.3513 15.4425 9.96824 15.8643 9.91758C16.8962 9.79362 17.8242 8.75741 17.8242 7.38461C17.8242 6.08213 17.0256 5.0847 16.085 4.8305C15.6749 4.71966 15.4323 4.29733 15.5431 3.88721Z' fill='#ffffff'></path> <path fill-rule='evenodd' clip-rule='evenodd' d='M17.8384 14.4901C17.9197 14.0731 18.3237 13.801 18.7407 13.8824C20.6337 14.2516 22 15.91 22 17.8388V18.3735C22 18.8469 21.858 19.5212 21.2404 19.9159C20.8246 20.1817 20.1798 20.4649 19.1855 20.666C18.7691 20.7503 18.3633 20.481 18.279 20.0646C18.1948 19.6482 18.464 19.2424 18.8804 19.1581C19.7287 18.9865 20.1871 18.7633 20.4118 18.6197L20.4136 18.6179C20.4153 18.6158 20.4213 18.6077 20.4287 18.5896C20.4451 18.5498 20.4615 18.4784 20.4615 18.3735V17.8388C20.4615 16.6462 19.6167 15.6207 18.4462 15.3924C18.0292 15.311 17.7571 14.9071 17.8384 14.4901Z' fill='#ffffff'></path></g></svg>"
+  },
+  {
+    "children": [
+      {
+        "label": "Pelanggan PLTS Atap per Golongan Tarif",
+        "link": "Rasyid/78_Dash_Gol_Tarif",
+        "slug": "plts_plg_tarif_gol"
+      },
+      {
+        "label": "Pelanggan PLTS Atap per Unit",
+        "link": "Rasyid/79_Dash_PLTS_Wilayah",
+        "slug": "plts_plg_wil"
+      },
+      {
+        "label": "Rasio kWh Ekspor terhadap kWh Impor PLTS Atap",
+        "link": "Rasyid/83_Dash_Rasio_Exp_Imp_PLTS_1",
+        "slug": "ratio_exim_plts"
+      },
+      {
+        "label": "Monitoring EV Charging",
+        "link": "Rasyid/85_Dash_EV_Charging",
+        "slug": "ev_monitoring"
+      },
+      {
+        "label": "Monitoring Captive Power Acquisition",
+        "link": "Rasyid/87_DashMonitoring_CPA",
+        "slug": "cpa_monitoring_bln"
+      },
+      {
+        "label": "Konsumsi Pelanggan Kompor Induksi",
+        "link": "Rasyid/88_Dash_Kompor_Induksi_1",
+        "slug": "kp_induksi_konsumsi"
+      },
+      {
+        "label": "Menu PLTS Baru",
+        "link": "Rasyid/78_Dash_Gol_Tarif",
+        "slug": "menu_plts_baru"
+      },
+      {
+        "children": [
+          {
+            "label": "Komposisi Pelanggan PLTS Atap",
+            "link": "Rasyid/136_DashKomposisi_PLTS_1",
+            "slug": "plts_komposisi_plg"
+          },
+          {
+            "label": "Tren Jumlah Pelanggan PLTS Atap",
+            "link": "Rasyid/137_Tren_PLG_PLTS",
+            "slug": "plts_tren_plg"
+          },
+          {
+            "label": "Tren Kapasitas PLTS Atap",
+            "link": "Rasyid/131_Atap_Kapasitas_PLTS_1",
+            "slug": "plts_kapasitas"
+          },
+          {
+            "label": "Tren kWh Impor Riil (PLN ke Pelanggan)",
+            "link": "Rasyid/140_Dash_PLTS_Impor_1",
+            "slug": "plts_kwh_impor"
+          },
+          {
+            "label": "Tren kWh Ekspor Riil (Pelanggan ke PLN)",
+            "link": "Rasyid/141_Dash_PLTS_Expor_1",
+            "slug": "plts_kwh_ekspor"
+          },
+          {
+            "label": "Tren Jumlah Pelanggan EV",
+            "link": "Rasyid/150_TrenJumlahPelangganEV_1",
+            "slug": "ev_jlh_plg"
+          },
+          {
+            "label": "Monitoring EV Charging",
+            "link": "Rasyid/149_MonitoringEVChargingPosisi_1",
+            "slug": "ev_posisi"
+          },
+          {
+            "label": "Tren kWh EV Pelangggan pada Jam Diskon",
+            "link": "Rasyid/152_DashTrenkWhDiskonPelangganEV_1",
+            "slug": "ev_kwh_disc"
+          },
+          {
+            "label": "Tren Rupiah Diskon Pelanggan EV",
+            "link": "Rasyid/153_DashTrenRupiahDiskonPelangganEV_1",
+            "slug": "ev_rp_disc"
+          },
+          {
+            "label": "Konsumsi kWh Pelanggan Captive Power Acquisition",
+            "link": "Rasyid/154_Dash_Konsumsi_kWh_CPA",
+            "slug": "cpa_konsumsi"
+          },
+          {
+            "label": "Pendapatan Pelanggan Captive Power Acquisition",
+            "link": "Rasyid/155_DashPendapatan_Pelanggan_CPA",
+            "slug": "cpa_pendapatan"
+          },
+          {
+            "label": "Tren Konsumsi kWh Kompor Induksi ",
+            "link": "Rasyid/156_DashKomporInduksi",
+            "slug": "kp_induksi"
+          }
+        ],
+        "label": "-- Lampiran --"
+      }
+    ],
+    "label": "Produk Layanan, Produk Pemasaran, dan Produk Tematik",
+    "svg": "<svg fill='#ffffff' class='h-5 w-5' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 491.52 491.52' xml:space='preserve'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><g><g><path d='M471.04,0H20.48C9.155,0,0,9.155,0,20.48v450.56c0,11.325,9.155,20.48,20.48,20.48h450.56 c11.325,0,20.48-9.155,20.48-20.48V20.48C491.52,9.155,482.365,0,471.04,0z M163.84,430.08h-40.96 c-11.325,0-20.48-9.155-20.48-20.48s9.155-20.48,20.48-20.48h40.96c11.325,0,20.48,9.155,20.48,20.48 S175.165,430.08,163.84,430.08z M143.36,368.64c-33.874,0-61.44-27.566-61.44-61.44c0-33.874,27.566-61.44,61.44-61.44 c33.874,0,61.44,27.566,61.44,61.44C204.8,341.074,177.234,368.64,143.36,368.64z M143.36,225.28 c-45.179,0-81.92-36.741-81.92-81.92s36.741-81.92,81.92-81.92c45.179,0,81.92,36.741,81.92,81.92S188.539,225.28,143.36,225.28z M368.64,430.08h-40.96c-11.325,0-20.48-9.155-20.48-20.48s9.155-20.48,20.48-20.48h40.96c11.325,0,20.48,9.155,20.48,20.48 S379.965,430.08,368.64,430.08z M348.16,368.64c-33.874,0-61.44-27.566-61.44-61.44c0-33.874,27.566-61.44,61.44-61.44 c33.874,0,61.44,27.566,61.44,61.44C409.6,341.074,382.034,368.64,348.16,368.64z M348.16,225.28 c-45.179,0-81.92-36.741-81.92-81.92s36.741-81.92,81.92-81.92c45.179,0,81.92,36.741,81.92,81.92S393.339,225.28,348.16,225.28z'></path></g></g></g></svg>"
+  },
+  {
+    "children": [
+      {
+        "label": "Saldo Tunggakan",
+        "link": "Rasyid/96_DashSaldoTunggakan",
+        "slug": "saldo_tunggakan"
+      },
+      {
+        "label": "Potret Tunggakan Unsur PAL Per Unit Per Lembar",
+        "link": "Rasyid/97_DashPotretTunggakanPAL_1",
+        "slug": "tunggakan_unsur_pal"
+      },
+      {
+        "children": [
+          {
+            "label": "Tunggakan Listrik Unsur PAL per Lembar Pelanggan Umum (Kogol 0)",
+            "link": "Rasyid/162_DashPAL_KOGOL_0",
+            "slug": "tunggakan_kogol_0"
+          },
+          {
+            "label": "Tunggakan Listrik Unsur PAL per Lembar Pelanggan TNI, POLRI (Kogol 1)",
+            "link": "Rasyid/163_DashPAL_KOGOL_1",
+            "slug": "tunggakan_kogol_1"
+          },
+          {
+            "label": "Tunggakan Listrik Unsur PAL per Lembar Pelanggan Instansi Vertikal (Kogol 2)",
+            "link": "Rasyid/164_DashPAL_KOGOL_2",
+            "slug": "tunggakan_kogol_2"
+          },
+          {
+            "label": "Tunggakan Listrik Unsur PAL per Lembar Pelanggan Pemda (Kogol 3)",
+            "link": "Rasyid/165_DashPAL_KOGOL_3",
+            "slug": "tunggakan_kogol_3"
+          },
+          {
+            "label": "Tunggakan Listrik Unsur PAL per Lembar Pelanggan BUMN/BUMD (Kogol 4)",
+            "link": "Rasyid/166_DashPAL_KOGOL_4",
+            "slug": "tunggakan_kogol_4"
+          },
+          {
+            "label": "Potret Tunggakan 1 Lembar (Per Unsur)",
+            "link": "Rasyid/167_DashPotretTunggakan1",
+            "slug": "potret_tunggakan_1"
+          },
+          {
+            "label": "Potret Tunggakan 2 Lembar (Per Unsur)",
+            "link": "Rasyid/168_DashPotretTunggakan2_1",
+            "slug": "potret_tunggakan_2"
+          },
+          {
+            "label": "Potret Tunggakan 3 Lembar (Per Unsur)",
+            "link": "Rasyid/169_DashPotretTunggakan3",
+            "slug": "potret_tunggakan_3"
+          },
+          {
+            "label": "Potret Tunggakan 4-12 Lembar (Per Unsur)",
+            "link": "Rasyid/170_DashPotretTunggakan412_1",
+            "slug": "potret_tunggakan_4"
+          },
+          {
+            "label": "Potret Tunggakan diatas 12 Lembar (Per Unsur)",
+            "link": "Rasyid/171_DashPotretTunggakan12_1",
+            "slug": "potret_tunggakan_12"
+          },
+          {
+            "label": "Saldo Saldo PRR - Rupiah dan Lembar",
+            "link": "Rasyid/172_SaldoPRR_RP_LBR",
+            "slug": "saldo_prr"
+          },
+          {
+            "label": "Saldo Piutang Prabayar",
+            "link": "Rasyid/175_DashSaldoPiutangPrabayar_1",
+            "slug": "saldo_piutang_pra"
+          }
+        ],
+        "label": "-- Lampiran --"
+      }
+    ],
+    "label": "Tunggakan, PRR dan Saldo Piutang Prabayar Pascabayar",
+    "svg": "<svg fill='#ffffff' class='h-5 w-5' viewBox='0 0 1024 1024' xmlns='http://www.w3.org/2000/svg'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><path d='M627.226 581.619c41.324 14.269 69.619 53.31 69.619 97.746 0 57.103-46.28 103.383-103.383 103.383-38.183 0-72.667-20.854-90.712-53.74-5.441-9.916-17.89-13.544-27.807-8.103s-13.544 17.89-8.103 27.807c25.168 45.868 73.336 74.997 126.622 74.997 79.724 0 144.343-64.619 144.343-144.343 0-62.038-39.497-116.535-97.211-136.463-10.691-3.692-22.351 1.983-26.043 12.674s1.983 22.351 12.674 26.043z'></path><path d='M532.582 543.703c0-57.092-46.291-103.383-103.383-103.383s-103.383 46.291-103.383 103.383 46.291 103.383 103.383 103.383 103.383-46.291 103.383-103.383zm40.96 0c0 79.714-64.629 144.343-144.343 144.343s-144.343-64.629-144.343-144.343c0-79.714 64.629-144.343 144.343-144.343s144.343 64.629 144.343 144.343z'></path><path d='M106.544 501.695l385.403-380.262c11.913-11.754 31.079-11.722 42.955.075l382.71 380.14c8.025 7.971 20.992 7.927 28.963-.098s7.927-20.992-.098-28.963l-382.71-380.14c-27.811-27.625-72.687-27.7-100.589-.171L77.775 472.539c-8.051 7.944-8.139 20.911-.194 28.962s20.911 8.139 28.962.194z'></path><path d='M783.464 362.551v517.12c0 16.962-13.758 30.72-30.72 30.72h-481.28c-16.962 0-30.72-13.758-30.72-30.72v-517.12c0-11.311-9.169-20.48-20.48-20.48s-20.48 9.169-20.48 20.48v517.12c0 39.583 32.097 71.68 71.68 71.68h481.28c39.583 0 71.68-32.097 71.68-71.68v-517.12c0-11.311-9.169-20.48-20.48-20.48s-20.48 9.169-20.48 20.48z'></path></g></svg>"
+  },
+  {
+    "label": "Informasi Eksternal",
+    "link": "Penjualanplnrev/D_eksternal_bisnis",
+    "slug": "eks_bisnis",
+    "svg": "<svg fill='#ffffff' class='h-5 w-5' viewBox='-1 0 19 19' xmlns='http://www.w3.org/2000/svg'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><path d='M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534zm2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z'></path></g></svg>"
+  },
+  {
+    "children": [
+      {
+        "label": "Demand Forecast"
+      }
+    ],
+    "label": "Forecast",
+    "svg": "<svg fill='#ffffff' class='h-5 w-5' stroke='#ffffff' stroke-width='0.5' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 32 32' xml:space='preserve'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><path id='sales--connect_1_' d='M23,30.36H9v-0.72h6.64v-4.28H3c-1.301,0-2.36-1.059-2.36-2.36V6c0-1.301,1.059-2.36,2.36-2.36 h20.851c0.312-0.594,0.934-1,1.649-1c1.025,0,1.86,0.834,1.86,1.86s-0.835,1.86-1.86,1.86c-0.383,0-0.739-0.116-1.035-0.315 l-6.42,6.42c0.199,0.296,0.315,0.652,0.315,1.035c0,1.025-0.835,1.86-1.86,1.86s-1.86-0.834-1.86-1.86 c0-0.383,0.116-0.739,0.315-1.035l-1.42-1.42c-0.592,0.398-1.479,0.398-2.07,0l-3.42,3.42C8.244,14.761,8.36,15.117,8.36,15.5 c0,1.025-0.834,1.86-1.86,1.86s-1.86-0.835-1.86-1.86s0.834-1.86,1.86-1.86c0.383,0,0.739,0.116,1.035,0.315l3.42-3.42 C10.756,10.239,10.64,9.883,10.64,9.5c0-1.025,0.834-1.86,1.86-1.86s1.86,0.834,1.86,1.86c0,0.383-0.116,0.739-0.315,1.035 l1.42,1.42c0.592-0.398,1.479-0.398,2.07,0l6.42-6.42C23.756,5.239,23.64,4.883,23.64,4.5c0-0.047,0.002-0.094,0.006-0.14H3 C2.096,4.36,1.36,5.096,1.36,6v13.64h29.28V4h0.721v19c0,1.302-1.059,2.36-2.36,2.36H16.36v4.279H23V30.36z M1.36,20.36V23 c0,0.904,0.736,1.64,1.64,1.64h26c0.904,0,1.64-0.735,1.64-1.64v-2.64H1.36z M6.5,14.36c-0.628,0-1.14,0.512-1.14,1.14 s0.512,1.14,1.14,1.14s1.14-0.512,1.14-1.14S7.128,14.36,6.5,14.36z M16.5,12.36c-0.628,0-1.14,0.512-1.14,1.14 s0.512,1.14,1.14,1.14c0.629,0,1.14-0.512,1.14-1.14S17.129,12.36,16.5,12.36z M12.5,8.36c-0.628,0-1.14,0.512-1.14,1.14 s0.512,1.14,1.14,1.14s1.14-0.512,1.14-1.14S13.128,8.36,12.5,8.36z M25.5,3.36c-0.629,0-1.14,0.512-1.14,1.14s0.511,1.14,1.14,1.14 s1.14-0.512,1.14-1.14S26.129,3.36,25.5,3.36z'></path> <rect id='_Transparent_Rectangle' style='fill:none;' width='32' height='32'></rect> </g></svg>"
+  }
+]
