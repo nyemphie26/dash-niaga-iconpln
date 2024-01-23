@@ -326,11 +326,6 @@
         "slug": "kp_induksi_konsumsi"
       },
       {
-        "label": "Menu PLTS Baru",
-        "link": "Rasyid/78_Dash_Gol_Tarif",
-        "slug": "menu_plts_baru"
-      },
-      {
         "children": [
           {
             "label": "Komposisi Pelanggan PLTS Atap",
