@@ -9,6 +9,11 @@
           "slug": "maps_penjualan"
         },
         {
+          "label": "Menu 2",
+          "link": "SYARIF/Maps_Penjualan",
+          "slug": "menu_2"
+        },
+        {
           "label": "Pertumbuhan Penjualan Listrik TWh",
           "children": [
             {
