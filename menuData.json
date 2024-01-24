@@ -9,6 +9,11 @@
           "slug": "New_Menu_Sample"
         },
         {
+          "label": "New Menu Sample 2",
+          "link": "SYARIF/3_D_PertumbuhanPenjualan",
+          "slug": "New_Menu_Sample_2"
+        },
+        {
           "label": "Pertumbuhan Penjualan Listrik TWh",
           "children": [
             {
