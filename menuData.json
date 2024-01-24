@@ -4,16 +4,6 @@
       "svg": "<svg fill='#ffffff' class='w-5 h-5' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><polygon points='439.6,0 204.9,0 55.4,256 204.9,256 76.9,512 418.2,192 247.5,192'/></g></svg>",
       "children": [
         {
-          "label": "New Menu Sample",
-          "link": "SYARIF/Maps_Penjualan",
-          "slug": "New_Menu_Sample"
-        },
-        {
-          "label": "New Menu Sample 2",
-          "link": "SYARIF/3_D_PertumbuhanPenjualan",
-          "slug": "New_Menu_Sample_2"
-        },
-        {
           "label": "Pertumbuhan Penjualan Listrik TWh",
           "children": [
             {
