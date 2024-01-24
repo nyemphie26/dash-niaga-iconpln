@@ -1,199 +1,189 @@
 [
-    {
-      "label": "Penjualan Tenaga Listrik",
-      "svg": "<svg fill='#ffffff' class='w-5 h-5' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><polygon points='439.6,0 204.9,0 55.4,256 204.9,256 76.9,512 418.2,192 247.5,192'/></g></svg>",
-      "children": [
-        {
-          "label": "Peta Pertumbuhan Listrik",
-          "link": "SYARIF/Maps_Penjualan",
-          "slug": "maps_penjualan"
-        },
-        {
-          "label": "Menu 2",
-          "link": "SYARIF/Maps_Penjualan",
-          "slug": "menu_2"
-        },
-        {
-          "label": "Pertumbuhan Penjualan Listrik TWh",
-          "children": [
-            {
-              "label": "Bulanan",
-              "link": "SYARIF/3_D_PertumbuhanPenjualan",
-              "slug": "pert_twh_bulanan"
-            },
-            {
-              "label": "Kumulatif",
-              "link": "SYARIF/3_D_PertumbuhanKumulatif",
-              "slug": "pert_twh_kumulatif"
-            }
-          ]
-        },
-        {
-          "label": "Peta Pertumbuhan Listrik",
-          "link": "SYARIF/Maps_Penjualan",
-          "slug": "maps_penjualan"
-        },
-        {
-          "label": "Pertumbuhan Penjualan per Unit",
-          "link": "SYARIF/17_D_RealisasiPertumbuhankWh",
-          "slug": "pert_jual_unit"
-        },
-        {
-          "label": "Penjualan per Segmen per Unit",
-          "children": [
-            {
-              "label": "Grafik",
-              "link": "SYARIF/26D_PenjualanSegmen",
-              "slug": "penj_segmen_unit_graph"
-            },
-            {
-              "label": "Tabel Detail",
-              "link": "SYARIF/26D_PenjualanSegmen2",
-              "slug": "penj_segmen_unit"
-            }
-          ]
-        },
-        {
-          "label": "Penjualan Tenaga Listrik per Tegangan",
-          "link": "SYARIF/A_13_D_Jual_Listrik_Tegangan",
-          "slug": "jual_tegangan"
-        },
-        {
-          "label": "Penjualan Tenaga Listrik per Golongan Tarif",
-          "link": "SYARIF/A_14_D_Jual_Listrik_Gol",
-          "slug": "jual_gol_tarif"
-        },
-        {
-          "label": "Delta Penjualan per Unit",
-          "link": "SYARIF/18D_Deltajualwil",
-          "slug": "delta_jual_unit"
-        },
-        {
-          "label": "Langgam Konsumsi TWh Listrik",
-          "link": "SYARIF/6_D_TWh",
-          "slug": "kons_twh_hold"
-        },
-        {
-          "label": "Langgam Rp/kWh Bulanan",
-          "link": "SYARIF/6_RpkWh",
-          "slug": "rp_kwh_hold"
-        },
-        {
-          "label": "Langgam Daya MVA Bulanan",
-          "children": [
-            {
-              "label": "Delta Daya Tersambung",
-              "link": "SYARIF/6_D_Delta_Daya",
-              "slug": "delta_daya"
-            },
-            {
-              "label": "Daya Tersambung (MVA)",
-              "link": "SYARIF/6_D_Growth_Daya",
-              "slug": "daya_tersambung"
-            }
-          ]
-        },
-        {
-          "label": "Pertumbuhan Pelanggan",
-          "children": [
-            {
-              "label": "Bulanan",
-              "link": "SYARIF/A_4_D_Pert_Plg_1",
-              "slug": "pert_plg"
-            },
-            {
-              "label": "Kumulatif",
-              "link": "SYARIF/A_4_D_Pert_Plg_Kum_1",
-              "slug": "pert_plg_kum"
-            }
-          ]
-        },
-        {
-          "label": "Pertumbuhan Penjualan Holding per Segmen",
-          "link": "EvalPenjualanpln/LA_6",
-          "slug": "penj_hold_segmen"
-        },
-        {
-          "label": "Konsumsi kWh per Pelanggan per Golongan Tarif - Holding",
-          "link": "SYARIF/15_D_KonsumsikwhplgGol",
-          "slug": "kwh_plg_gol"
-        },
-        {
-          "label": "Konsumsi kWh per Pelanggan per Unit",
-          "link": "SYARIF/16_D_Konsumsikwhplgwilayah",
-          "slug": "kWH_plg_wil"
-        },
-        {
-          "label": "Konsumsi Listrik dan Jam Nyala Pelanggan",
-          "link": "SYARIF/25_D_JamNyalaDetails",
-          "slug": "jam_nyala"
-        },
-        {
-          "label": "Konsumsi kWh per Pelanggan per Hari per Segmen - Holding",
-          "link": "SYARIF/EvalPenjualanpln/LA_7",
-          "slug": "kwh_plg_hr_segmen"
-        },
-        {
-          "label": "Konsumsi kWh per Pelanggan per Hari per Unit per Kelompok Tarif",
-          "link": "SYARIF/EvalPenjualanpln/LA_8",
-          "slug": "kwh_plg_hr_unit_segmen"
-        },
-        {
-          "label": "Pertumbuhan Rupiah Pendapatan",
-          "children": [
-            {
-              "label": "Bulanan",
-              "link": "SYARIF/20_D_PertumbuhanRP",
-              "slug": "pend_bulanan"
-            },
-            {
-              "label": "Kumulatif",
-              "link": "SYARIF/20_D_PertumbuhanRPKum",
-              "slug": "pend_kumulatif"
-            }
-          ]
-        },
-        {
-          "label": "Pertumbuhan Pendapatan Golongan Tarif",
-          "link": "SYARIF/2122_D_PertumbuhanRPGOL",
-          "slug": "pert_rp_gol"
-        },
-        {
-          "label": "Realisasi Pertumbuhan Pendapatan per Unit",
-          "link": "SYARIF/23D_RealPertumbuhanRPUnit",
-          "slug": "real_pend_unit"
-        },
-        {
-          "label": "Delta Rupiah Penjualan per Unit",
-          "link": "SYARIF/19_D_DeltaRpWilDetails",
-          "slug": "delta_rupiah_penj"
-        },
-        {
-          "label": "Realisasi Penertiban Pemakaian Tenaga Listrik (P2TL)",
-          "link": "SYARIF/24_D_P2TL",
-          "slug": "p2tl"
-        },
-        {
-          "label": "-- Lampiran --",
-          "children": [
-            {
-              "label": "Konsumsi Rata-rata kWh/Plg/Hari",
-              "link": "SYARIF/5_D_kWhPlgHr",
-              "slug": "kwh_plg_hr"
-            },
-            {
-              "label": "Penerimaan Biaya Penyambungan (Sudah Tersambung) per bulan",
-              "link": "Rasyid/Dashboard33",
-              "slug": "bp_bulanan"
-            },
-            {
-              "label": "Pendapatan REC (TAGLIS dan NONTAGLIS)",
-              "link": "Rasyid/35_DashPendapatanREC_1",
-              "slug": "pend_rec"
-            }
-          ]
-        }
-      ]
+  {
+    "label": "Penjualan Tenaga Listrik",
+    "svg": "<svg fill='#ffffff' class='w-5 h-5' version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><polygon points='439.6,0 204.9,0 55.4,256 204.9,256 76.9,512 418.2,192 247.5,192'/></g></svg>",
+    "children": [
+      {
+        "label": "Pertumbuhan Penjualan Listrik TWh",
+        "children": [
+          {
+            "label": "Bulanan",
+            "link": "SYARIF/3_D_PertumbuhanPenjualan",
+            "slug": "pert_twh_bulanan"
+          },
+          {
+            "label": "Kumulatif",
+            "link": "SYARIF/3_D_PertumbuhanKumulatif",
+            "slug": "pert_twh_kumulatif"
+          }
+        ]
+      },
+      {
+        "label": "Peta Pertumbuhan Listrik",
+        "link": "SYARIF/Maps_Penjualan",
+        "slug": "maps_penjualan"
+      },
+      {
+        "label": "Pertumbuhan Penjualan per Unit",
+        "link": "SYARIF/17_D_RealisasiPertumbuhankWh",
+        "slug": "pert_jual_unit"
+      },
+      {
+        "label": "Penjualan per Segmen per Unit",
+        "children": [
+          {
+            "label": "Grafik",
+            "link": "SYARIF/26D_PenjualanSegmen",
+            "slug": "penj_segmen_unit_graph"
+          },
+          {
+            "label": "Tabel Detail",
+            "link": "SYARIF/26D_PenjualanSegmen2",
+            "slug": "penj_segmen_unit"
+          }
+        ]
+      },
+      {
+        "label": "Penjualan Tenaga Listrik per Tegangan",
+        "link": "SYARIF/A_13_D_Jual_Listrik_Tegangan",
+        "slug": "jual_tegangan"
+      },
+      {
+        "label": "Penjualan Tenaga Listrik per Golongan Tarif",
+        "link": "SYARIF/A_14_D_Jual_Listrik_Gol",
+        "slug": "jual_gol_tarif"
+      },
+      {
+        "label": "Delta Penjualan per Unit",
+        "link": "SYARIF/18D_Deltajualwil",
+        "slug": "delta_jual_unit"
+      },
+      {
+        "label": "Langgam Konsumsi TWh Listrik",
+        "link": "SYARIF/6_D_TWh",
+        "slug": "kons_twh_hold"
+      },
+      {
+        "label": "Langgam Rp/kWh Bulanan",
+        "link": "SYARIF/6_RpkWh",
+        "slug": "rp_kwh_hold"
+      },
+      {
+        "label": "Langgam Daya MVA Bulanan",
+        "children": [
+          {
+            "label": "Delta Daya Tersambung",
+            "link": "SYARIF/6_D_Delta_Daya",
+            "slug": "delta_daya"
+          },
+          {
+            "label": "Daya Tersambung (MVA)",
+            "link": "SYARIF/6_D_Growth_Daya",
+            "slug": "daya_tersambung"
+          }
+        ]
+      },
+      {
+        "label": "Pertumbuhan Pelanggan",
+        "children": [
+          {
+            "label": "Bulanan",
+            "link": "SYARIF/A_4_D_Pert_Plg_1",
+            "slug": "pert_plg"
+          },
+          {
+            "label": "Kumulatif",
+            "link": "SYARIF/A_4_D_Pert_Plg_Kum_1",
+            "slug": "pert_plg_kum"
+          }
+        ]
+      },
+      {
+        "label": "Pertumbuhan Penjualan Holding per Segmen",
+        "link": "EvalPenjualanpln/LA_6",
+        "slug": "penj_hold_segmen"
+      },
+      {
+        "label": "Konsumsi kWh per Pelanggan per Golongan Tarif - Holding",
+        "link": "SYARIF/15_D_KonsumsikwhplgGol",
+        "slug": "kwh_plg_gol"
+      },
+      {
+        "label": "Konsumsi kWh per Pelanggan per Unit",
+        "link": "SYARIF/16_D_Konsumsikwhplgwilayah",
+        "slug": "kWH_plg_wil"
+      },
+      {
+        "label": "Konsumsi Listrik dan Jam Nyala Pelanggan",
+        "link": "SYARIF/25_D_JamNyalaDetails",
+        "slug": "jam_nyala"
+      },
+      {
+        "label": "Konsumsi kWh per Pelanggan per Hari per Segmen - Holding",
+        "link": "SYARIF/EvalPenjualanpln/LA_7",
+        "slug": "kwh_plg_hr_segmen"
+      },
+      {
+        "label": "Konsumsi kWh per Pelanggan per Hari per Unit per Kelompok Tarif",
+        "link": "SYARIF/EvalPenjualanpln/LA_8",
+        "slug": "kwh_plg_hr_unit_segmen"
+      },
+      {
+        "label": "Pertumbuhan Rupiah Pendapatan",
+        "children": [
+          {
+            "label": "Bulanan",
+            "link": "SYARIF/20_D_PertumbuhanRP",
+            "slug": "pend_bulanan"
+          },
+          {
+            "label": "Kumulatif",
+            "link": "SYARIF/20_D_PertumbuhanRPKum",
+            "slug": "pend_kumulatif"
+          }
+        ]
+      },
+      {
+        "label": "Pertumbuhan Pendapatan Golongan Tarif",
+        "link": "SYARIF/2122_D_PertumbuhanRPGOL",
+        "slug": "pert_rp_gol"
+      },
+      {
+        "label": "Realisasi Pertumbuhan Pendapatan per Unit",
+        "link": "SYARIF/23D_RealPertumbuhanRPUnit",
+        "slug": "real_pend_unit"
+      },
+      {
+        "label": "Delta Rupiah Penjualan per Unit",
+        "link": "SYARIF/19_D_DeltaRpWilDetails",
+        "slug": "delta_rupiah_penj"
+      },
+      {
+        "label": "Realisasi Penertiban Pemakaian Tenaga Listrik (P2TL)",
+        "link": "SYARIF/24_D_P2TL",
+        "slug": "p2tl"
+      },
+      {
+        "label": "-- Lampiran --",
+        "children": [
+          {
+            "label": "Konsumsi Rata-rata kWh/Plg/Hari",
+            "link": "SYARIF/5_D_kWhPlgHr",
+            "slug": "kwh_plg_hr"
+          },
+          {
+            "label": "Penerimaan Biaya Penyambungan (Sudah Tersambung) per bulan",
+            "link": "Rasyid/Dashboard33",
+            "slug": "bp_bulanan"
+          },
+          {
+            "label": "Pendapatan REC (TAGLIS dan NONTAGLIS)",
+            "link": "Rasyid/35_DashPendapatanREC_1",
+            "slug": "pend_rec"
+          }
+        ]
+      }
+    ]
   },
   {
     "label": "Penjualan per Tarif",
