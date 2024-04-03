@@ -120,12 +120,12 @@
       },
       {
         "label": "Konsumsi kWh per Pelanggan per Hari per Segmen - Holding",
-        "link": "SYARIF/EvalPenjualanpln/LA_7",
+        "link": "EvalPenjualanpln/LA_7",
         "slug": "kwh_plg_hr_segmen"
       },
       {
         "label": "Konsumsi kWh per Pelanggan per Hari per Unit per Kelompok Tarif",
-        "link": "SYARIF/EvalPenjualanpln/LA_8",
+        "link": "EvalPenjualanpln/LA_8",
         "slug": "kwh_plg_hr_unit_segmen"
       },
       {
@@ -287,7 +287,54 @@
         "slug": "Daftung PB/PD Segmen dan Umur Hari"
       },
       {
-        "label": "-- Lampiran --"
+        "label": "-- Lampiran --",
+        "children": [
+          {
+            "label": "Daftar Tunggu Permohonan PB Kolektif \"Pengembangan Perumahan dan Kawasan\" per Golongan Tarif",
+            "link": "ekkidsh66/No_126DaftarTungguPermohonaanPBKolektif_1",
+            "slug": "Daftung PB Kolektif Rumah per Gol Tarif"
+          },
+          {
+            "label": "Daftar Tunggu Permohonan PB Kolektif \"Pengembangan Perumahan dan Kawasan\" per Tahun Bayar",
+            "link": "ekkidsh66/NO127_1",
+            "slug": "Daftung PB Kolektif Rumah per Tahun"
+          },
+          {
+            "label": "Daftar Tunggu Permohonan PB Kolektif \"Pengembangan Perumahan dan Kawasan\" per Segmen Tegangan Dan Umur Hari Layananan",
+            "link": "ekkidsh66/NO128",
+            "slug": "Daftung PB Kolektif Rumah per Tegangan"
+          },
+          {
+            "label": "Daftar Tunggu Permohonan PB Individu \"Perorangan\" per Golongan Tarif",
+            "link": "ekkidsh66/Dashno_129",
+            "slug": "Daftung PB Individu per Gol Tarif"
+          },
+          {
+            "label": "Daftar Tunggu Permohonan PB Individu \"Perorangan\" per Tahun Bayar",
+            "link": "ekkidsh66/NO130",
+            "slug": "Daftung PB Individu per Tahun"
+          },
+          {
+            "label": "Daftar Tunggu Permohonan PB Individu \"Perorangan\" per Segmen Tegangan Dan Umur Hari Layananan",
+            "link": "ekkidsh66/NO131",
+            "slug": "Daftung PB Individu per Tegangan"
+          },
+          {
+            "label": "Daftar Tunggu Permohonan PD Individu \"Perorangan\" per Golongan Tarif",
+            "link": "ekkidsh66/no132_1",
+            "slug": "Daftung PD Individu per Gol Tarif"
+          },
+          {
+            "label": "Daftar Tunggu Permohonan PD Individu \"Perorangan\" per Tahun Bayar",
+            "link": "ekkidsh66/NO133_1",
+            "slug": "Daftung PD Individu per Tahun"
+          },
+          {
+            "label": "Daftar Tunggu Permohonan PD Individu \"Perorangan\" per Segmen Tegangan Dan Umur Hari Layananan",
+            "link": "ekkidsh66/NO134",
+            "slug": "Daftung PD Individu per Tegangan"
+          }
+        ]
       }
     ]
   },
@@ -380,6 +427,31 @@
             "slug": "plts_kwh_ekspor"
           },
           {
+            "label": "Komposisi Jumlah Pelanggan Premium",
+            "link": "Rasyid/142_Dash_Layanan_Preium_GolTrf",
+            "slug": "Komposisi Pelanggan Premium"
+          },
+          {
+            "label": "Konstribusi Layanan Premium Per Golongan Tarif (kumulatif)",
+            "link": "Rasyid/144_Dash_Layanan_Premium_Unit",
+            "slug": "Layanan Premium per Gol Tarif"
+          },
+          {
+            "label": "Konstribusi Layanan Premium Per Unit (bulanan dan kumulatif)",
+            "link": "Rasyid/145_Dash_Komposisi_JMLPLG_Premium",
+            "slug": "Layanan Premium per Unit"
+          },
+          {
+            "label": "Konsumsi kWh Pelanggan Premium Kumulatif​",
+            "link": "Rasyid/146_Dash_Konsumsi_kWh_Prem_1",
+            "slug": "kWh Plg Premium Kumulatif"
+          },
+          {
+            "label": "Pendapatan Pelanggan Premium Kumulatif​",
+            "link": "Rasyid/147_Dash_Pendapatan_PLG_Prem",
+            "slug": "Pendapatan Plg Premium Kumulatif"
+          },
+          {
             "label": "Tren Jumlah Pelanggan EV",
             "link": "Rasyid/150_TrenJumlahPelangganEV_1",
             "slug": "ev_jlh_plg"
@@ -407,12 +479,12 @@
           {
             "label": "Pendapatan Pelanggan Captive Power Acquisition",
             "link": "Rasyid/155_DashPendapatan_Pelanggan_CPA",
-            "slug": "cpa_pendapatan"
+            "slug": "CPA Pendapatan"
           },
           {
-            "label": "Tren Konsumsi kWh Kompor Induksi ",
-            "link": "Rasyid/156_DashKomporInduksi",
-            "slug": "kp_induksi"
+            "label": "Informasi kWh Emin",
+            "link": "Rasyid/157_Dash_kWh_EMIN_1",
+            "slug": "Informasi kWh Emin"
           }
         ]
       }
@@ -423,18 +495,63 @@
     "svg": "<svg fill='#ffffff' class='h-5 w-5' viewBox='0 0 1024 1024' xmlns='http://www.w3.org/2000/svg'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'><path d='M627.226 581.619c41.324 14.269 69.619 53.31 69.619 97.746 0 57.103-46.28 103.383-103.383 103.383-38.183 0-72.667-20.854-90.712-53.74-5.441-9.916-17.89-13.544-27.807-8.103s-13.544 17.89-8.103 27.807c25.168 45.868 73.336 74.997 126.622 74.997 79.724 0 144.343-64.619 144.343-144.343 0-62.038-39.497-116.535-97.211-136.463-10.691-3.692-22.351 1.983-26.043 12.674s1.983 22.351 12.674 26.043z'></path><path d='M532.582 543.703c0-57.092-46.291-103.383-103.383-103.383s-103.383 46.291-103.383 103.383 46.291 103.383 103.383 103.383 103.383-46.291 103.383-103.383zm40.96 0c0 79.714-64.629 144.343-144.343 144.343s-144.343-64.629-144.343-144.343c0-79.714 64.629-144.343 144.343-144.343s144.343 64.629 144.343 144.343z'></path><path d='M106.544 501.695l385.403-380.262c11.913-11.754 31.079-11.722 42.955.075l382.71 380.14c8.025 7.971 20.992 7.927 28.963-.098s7.927-20.992-.098-28.963l-382.71-380.14c-27.811-27.625-72.687-27.7-100.589-.171L77.775 472.539c-8.051 7.944-8.139 20.911-.194 28.962s20.911 8.139 28.962.194z'></path><path d='M783.464 362.551v517.12c0 16.962-13.758 30.72-30.72 30.72h-481.28c-16.962 0-30.72-13.758-30.72-30.72v-517.12c0-11.311-9.169-20.48-20.48-20.48s-20.48 9.169-20.48 20.48v517.12c0 39.583 32.097 71.68 71.68 71.68h481.28c39.583 0 71.68-32.097 71.68-71.68v-517.12c0-11.311-9.169-20.48-20.48-20.48s-20.48 9.169-20.48 20.48z'></path></g></svg>",
     "children": [
       {
+        "label": "Tren COP Bulanan Holding",
+        "link": "Elang/95_DashboardTrendCOP_1",
+        "slug": "COP Bulanan Holding"
+      },
+      {
         "label": "Saldo Tunggakan",
-        "link": "Rasyid/96_DashSaldoTunggakan",
-        "slug": "saldo_tunggakan"
+        "link": "Elang/96_DashSaldoTunggakan",
+        "slug": "Saldo Tunggakan"
       },
       {
         "label": "Potret Tunggakan Unsur PAL Per Unit Per Lembar",
         "link": "Rasyid/97_DashPotretTunggakanPAL_1",
-        "slug": "tunggakan_unsur_pal"
+        "slug": "Tunggakan Unsur PAL"
+      },
+      {
+        "label": "Trend Tunggakan Unsur PAL (Per Kogol)",
+        "link": "Elang/100_DashTrendTunggakanUnsurPer-Kogol",
+        "slug": "Tunggakan Unsur PAL per Kogol"
+      },
+      {
+        "label": "Saldo PRR",
+        "link": "Elang/101_DashSaldoPRR",
+        "slug": "Saldo PRR"
+      },
+      {
+        "label": "Saldo Piutang Pascabayar & Prabayar - Rekening Gabungan Unsur Gabungan",
+        "link": "Elang/102Dash_SaldoPiutangPascaPra-RekeningGabUnsurGab",
+        "slug": "Saldo Piutang Rek Gabungan Unsur Gabungan"
+      },
+      {
+        "label": "Saldo Piutang Pascabayar & Prabayar - Rekening Gabungan Unsur PAL",
+        "link": "Elang/103_Dash_SaldoPiutangPascabayarPrabayar-RekeningGabunganUnsurPAL",
+        "slug": "Saldo Piutang Rek Gabungan Unsur PAL"
+      },
+      {
+        "label": "Saldo Piutang Pascabayar & Prabayar - Rekening Gabungan Unsur TS",
+        "link": "Elang/104_Dash_SaldoPiutangPascabayarPrabayar-RekeningGabunganUnsurTS_1",
+        "slug": "Saldo Piutang Rek Gabungan Unsur TS"
       },
       {
         "label": "-- Lampiran --",
         "children": [
+          {
+            "label": "Trend Saldo Tunggakan (per Unsur)",
+            "link": "SUHER_17055515190990/159_DashTrendSaldoTunggakanPerUnsur",
+            "slug": "Saldo Tunggakan per Unsur"
+          },
+          {
+            "label": "Trend Tunggakan Bulanan (Unsur PAL)",
+            "link": "SUHER_17055515190990/160_DashTrendTunggakanBulananUnsurPAL_1",
+            "slug": "Tunggakan Bulanan Unsur PAL"
+          },
+          {
+            "label": "Trend Tunggakan Bulanan Holding (Unsur Gabungan, PAL dan TS)",
+            "link": "SUHER_17055515190990/161_DashGabunganTrendTunggakanBulananHolding_1",
+            "slug": "Tunggakan Bulanan Holding"
+          },
           {
             "label": "Tunggakan Listrik Unsur PAL per Lembar Pelanggan Umum (Kogol 0)",
             "link": "Rasyid/162_DashPAL_KOGOL_0",
@@ -487,12 +604,22 @@
           },
           {
             "label": "Saldo Saldo PRR - Rupiah dan Lembar",
-            "link": "Rasyid/172_SaldoPRR_RP_LBR",
-            "slug": "saldo_prr"
+            "link": "SUHER_17055515190990/172_DashSaldoPRR-RupiahdanLembar",
+            "slug": "Saldo PRR Rp & Lembar"
+          },
+          {
+            "label": "Saldo Saldo PRR - Pelanggan dan Lembar per Pelanggan",
+            "link": "SUHER_17055515190990/Dashboard2",
+            "slug": "Saldo PRR Pelanggan dan Lembar/Plg"
+          },
+          {
+            "label": "Saldo Saldo PRR - Rp/Pelanggan dan Rp/Lembar",
+            "link": "SUHER_17055515190990/174_DashSaldoPRR-RpperPelanggandanRpperLembar_1",
+            "slug": "Saldo PRR Rp/Pelanggan&Lembar"
           },
           {
             "label": "Saldo Piutang Prabayar",
-            "link": "Rasyid/175_DashSaldoPiutangPrabayar_1",
+            "link": "SUHER_17055515190990/175_DashSaldoPiutangPrabayar",
             "slug": "saldo_piutang_pra"
           }
         ]
