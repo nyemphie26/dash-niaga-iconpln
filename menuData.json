@@ -516,12 +516,12 @@
       },
       {
         "label": "Saldo PRR",
-        "link": "Elang/101_DashSaldoPRR",
+        "link": "SUHER_17055515190990/101_DshSaldoPRR",
         "slug": "Saldo PRR"
       },
       {
         "label": "Saldo Piutang Pascabayar & Prabayar - Rekening Gabungan Unsur Gabungan",
-        "link": "Elang/102Dash_SaldoPiutangPascaPra-RekeningGabUnsurGab",
+        "link": "SUHER_17055515190990/102_DashSaldoPiutangPascabayarPrabayar",
         "slug": "Saldo Piutang Rek Gabungan Unsur Gabungan"
       },
       {
@@ -619,7 +619,7 @@
           },
           {
             "label": "Saldo Piutang Prabayar",
-            "link": "SUHER_17055515190990/175_DashSaldoPiutangPrabayar",
+            "link": "Rasyid/175_DashSaldoPiutangPrabayar_1",
             "slug": "saldo_piutang_pra"
           }
         ]
