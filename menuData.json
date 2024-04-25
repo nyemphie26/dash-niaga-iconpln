@@ -510,6 +510,11 @@
         "slug": "Tunggakan Unsur PAL"
       },
       {
+        "label": "Saldo Tunggakan (Per Unsur)",
+        "link": "SUHER_17055515190990/99_DashSaldoTunggakanPerUnsur_1",
+        "slug": "Saldo Tunggakan per Unsur"
+      },
+      {
         "label": "Trend Tunggakan Unsur PAL (Per Kogol)",
         "link": "Elang/100_DashTrendTunggakanUnsurPer-Kogol",
         "slug": "Tunggakan Unsur PAL per Kogol"
@@ -521,7 +526,7 @@
       },
       {
         "label": "Saldo Piutang Pascabayar & Prabayar - Rekening Gabungan Unsur Gabungan",
-        "link": "SUHER_17055515190990/102_DashSaldoPiutangPascabayarPrabayar",
+        "link": "SUHER_17055515190990/102_DashSaldoPiutangPascabayarPrabayar-RekeningGabunganUnsurGabungan_1",
         "slug": "Saldo Piutang Rek Gabungan Unsur Gabungan"
       },
       {
