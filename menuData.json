@@ -54,6 +54,11 @@
         "slug": "jual_gol_tarif"
       },
       {
+        "label": "Pertumbuhan Penjualan Holding per Segmen",
+        "link": "EvalPenjualanpln/LA_6",
+        "slug": "Pertumbuhan Jual Holding per Segmen"
+      },
+      {
         "label": "Delta Penjualan per Unit",
         "link": "SYARIF/18D_Deltajualwil",
         "slug": "delta_jual_unit"
